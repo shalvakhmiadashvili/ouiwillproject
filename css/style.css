@@ -623,6 +623,284 @@ line-height: 24px;
 
 color: #070707;
  }
+ .homepage-7{
+  position: absolute;
+width: 1440px;
+height: 902.7px;
+left: -1px;
+top: 4297.3px;
+
+background: #F8F8F8;
+ }
+ .iconlandingpage{
+  position: absolute;
+width: 42px;
+height: 6.09px;
+left: 1317px;
+top: 194.74px;
+ }
+ .mailcheck{
+  position: absolute;
+width: 435px;
+height: 63.9px;
+left: 79px;
+top: 162.28px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 52px;
+line-height: 63px;
+letter-spacing: -0.04em;
+
+color: #000000;
+ }
+ .portfoliolanding{
+  position: absolute;
+width: 75px;
+height: 25.36px;
+left: 79px;
+top: 429.04px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 25px;
+/* identical to box height */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+ }
+ .serviceslanding{
+  position: absolute;
+width: 78px;
+height: 25.36px;
+left: 79px;
+top: 479.75px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 25px;
+/* identical to box height */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+ }
+ .aboutlanding{
+  position: absolute;
+width: 54px;
+height: 25.36px;
+left: 79px;
+top: 530.46px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 25px;
+/* identical to box height */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+ }
+ .contactlanding{
+  position: absolute;
+width: 73px;
+height: 25.36px;
+left: 79px;
+top: 581.18px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 25px;
+/* identical to box height */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+ }
+ .sintaxlogolanding{
+  position: absolute;
+width: 78px;
+height: 34.49px;
+left: 79px;
+top: 705.93px;
+ }
+ .tbilisilocationlanding{
+  position: absolute;
+width: 138px;
+height: 25.36px;
+left: 397px;
+top: 429.04px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+/* identical to box height */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+ }
+ .tbilisilanding{
+  position: absolute;
+width: 195px;
+height: 54.77px;
+left: 397px;
+top: 488.88px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 84.02%;
+/* or 18px */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+
+ }
+ .londonlanding{
+  position: absolute;
+width: 70px;
+height: 25.36px;
+left: 838px;
+top: 429.04px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+/* identical to box height */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+ }
+ .londonlandingtext{
+  position: absolute;
+width: 211px;
+height: 54.77px;
+left: 838px;
+top: 488.88px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 84.52%;
+/* or 18px */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+ }
+ .dribblelanding{
+  position: absolute;
+width: 78px;
+height: 25.36px;
+left: 397px;
+top: 712.02px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+/* identical to box height */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+ }
+ .behancelanding{
+  position: absolute;
+width: 81px;
+height: 25.36px;
+left: 509px;
+top: 712.02px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+/* identical to box height */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+
+ }
+ .instagramlanding{
+  position: absolute;
+width: 91px;
+height: 25.36px;
+left: 623px;
+top: 712.02px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+/* identical to box height */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+ }
+ .linkedinlanding{
+  position: absolute;
+width: 76px;
+height: 25.36px;
+left: 747px;
+top: 712.02px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+/* identical to box height */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+ }
+.termsconditionslanding{
+  position: absolute;
+width: 176px;
+height: 25.36px;
+left: 1196px;
+top: 712.02px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+/* identical to box height */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+
+
+
 
 
 
