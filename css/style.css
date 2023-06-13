@@ -241,12 +241,13 @@ height: 0px;
 left: 1318px;
 top: 80px;
 }
-.portfolio{
+#portfolio{
   position: absolute;
 width: 255px;
 height: 81px;
 left: 925px;
 top: 152px;
+
 
 font-family: 'Inter', sans-serif;
 font-style: normal;
@@ -257,10 +258,13 @@ line-height: 112.52%;
 
 letter-spacing: -0.04em;
 
-color: #FDFDFD;
+color: #FDFDFD !important;
 
+text-decoration: none;
 }
-.service{
+
+
+#service{
   position: absolute;
 width: 232px;
 height: 81px;
@@ -278,7 +282,7 @@ letter-spacing: -0.04em;
 color: #FDFDFD;
 
 }
-.about{
+#about{
   position: absolute;
 width: 187px;
 height: 81px;
@@ -297,7 +301,7 @@ letter-spacing: -0.04em;
 color: #FDFDFD;
 
 }
-.contact{
+#contact{
   position: absolute;
 width: 249px;
 height: 81px;
@@ -898,9 +902,3 @@ letter-spacing: -0.04em;
 
 color: #000000;
 }
-
-
-
-
-
-
