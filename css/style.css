@@ -438,8 +438,9 @@ top: 1674px;
   position:absolute;
 width: 502px;
 height: 68.97px;
-left: 469px;
-top: 200px;
+left: 479px;
+right: auto;
+top: 150px;
 
 font-family: 'Inter', sans-serif;
 font-style: normal;
@@ -450,6 +451,178 @@ line-height: 1px;
 color: #FFFFFF;
 
 }
+.line{
+  position: absolute;
+width: 500px;
+height: 0px;
+left: 166px;
+top: 400px;
+
+}
+.your-name{
+  position: absolute;
+width: 100px;
+height: 24.34px;
+left: 200px;
+top: 359px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FDFDFD;
+
+}
+.email{
+  position: absolute;
+width: 50px;
+height: 24.34px;
+left: 200px;
+top: 500px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FDFDFD;
+}
+.line-2{
+  position: absolute;
+width: 500px;
+height: 0px;
+left: 166px;
+top: 555px;
+
+}
+.Budget-Range{
+  position: absolute;
+width: 133px;
+left: 845px;
+top: 359px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FDFDFD;
+
+}
+.line-3{
+  position: absolute;
+width: 500px;
+height: 0px;
+left: 800px;
+top: 400px;
+}
+.chamoshla{
+  position: absolute;
+width: 10px;
+height: 5.07px;
+left: 1287px;
+top: 390px;
+}
+.service-category{
+  position: absolute;
+width: 163px;
+height: 24.34px;
+left: 845px;
+top: 500px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FDFDFD;
+
+}
+.line-4{
+  position: absolute;
+width: 500px;
+height: 0px;
+left: 800px;
+top: 555px;
+
+}
+.chamoshla-2{
+  position: absolute;
+width: 10px;
+height: 5.07px;
+left: 1287px;
+top: 546px;
+}
+.project-details{
+  position: absolute;
+width: 320.39px;
+height: 24.34px;
+left: 200px;
+top: 700px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FDFDFD;
+}
+.long-line{
+  position: absolute;
+width: 1120px;
+height: 0px;
+left: 180px;
+top: 750px;
+}
+.chamosashleli-bolo{
+  position: absolute;
+width: 7px;
+height: 6.09px;
+left: 1288px;
+top: 740px;
+}
+ .send-inquiry{
+  position: absolute;
+width: 258px;
+height: 71px;
+left: 591px;
+top: 900px;
+
+background: #E9E9E9;
+ }
+ .send-inquiry-text{
+  position: absolute;
+width: 117px;
+height: 24.34px;
+left: 658px;
+top: 928px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #070707;
+ }
 
 
 
