@@ -1,0 +1,517 @@
+.service-page{
+    position: absolute;
+    width: 1440px;
+    height: 3047px;
+    left: 0px;
+    top: 0px;
+    
+    background: #000000;   
+}
+.sintax-logo{
+    position: absolute;
+width: 80px;
+height: 35px;
+left: 80px;
+top: 64px;
+}
+.menu-click{
+    position: absolute;
+width: 42px;
+height: 6px;
+left: 1318px;
+top: 80px;
+}
+.services-text{
+    position: absolute;
+width: 663px;
+height: 73px;
+left: 80px;
+top: 238px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 72px;
+line-height: 112.52%;
+/* or 81px */
+
+letter-spacing: -0.05em;
+
+color: #FDFDFD;
+
+}
+.service-image-1{
+    position: absolute;
+width: 509px;
+height: 580px;
+left: 129px;
+top: 526px;
+
+}
+.reserch{
+    position: absolute;
+width: 468px;
+height: 168px;
+left: 892px;
+top: 550px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 72px;
+line-height: 116.02%;
+/* or 84px */
+
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+}
+.reserch-text-1{
+
+position: absolute;
+width: 267px;
+height: 24px;
+left: 897px;
+top: 828px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 112.52%;
+/* identical to box height, or 24px */
+
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+}
+.reserch-text-2{
+    position: absolute;
+width: 279px;
+height: 24px;
+left: 897px;
+top: 876px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 112.52%;
+/* identical to box height, or 24px */
+
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+
+}
+.reserch-text-3{
+    position: absolute;
+width: 178px;
+height: 24px;
+left: 897px;
+top: 924px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 112.52%;
+/* identical to box height, or 24px */
+
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+}
+.reserch-text-4{
+    position: absolute;
+width: 238px;
+height: 24px;
+left: 897px;
+top: 972px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 112.52%;
+/* identical to box height, or 24px */
+
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+}
+.reserch-text-5{
+    position: absolute;
+width: 253px;
+height: 24px;
+left: 897px;
+top: 1020px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 112.52%;
+/* identical to box height, or 24px */
+
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+}
+.service-image-2{
+    position: absolute;
+width: 623px;
+height: 707px;
+left: 725px;
+top: 1256px;
+}
+.creative{
+    position: absolute;
+width: 501px;
+height: 252px;
+left: 80px;
+top: 1195px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 72px;
+line-height: 116.02%;
+/* or 84px */
+
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+}
+.creative-text-1{
+    position: absolute;
+width: 216px;
+height: 24px;
+left: 85px;
+top: 1550px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 112.52%;
+/* identical to box height, or 24px */
+
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+}
+.creative-text-2{
+    position: absolute;
+width: 131px;
+height: 24px;
+left: 85px;
+top: 1598px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 112.52%;
+/* identical to box height, or 24px */
+
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+}
+.creative-text-3{
+    position: absolute;
+width: 159px;
+height: 24px;
+left: 85px;
+top: 1646px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 112.52%;
+/* identical to box height, or 24px */
+
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+}
+.creative-text-4{
+    position: absolute;
+width: 298px;
+height: 24px;
+left: 85px;
+top: 1694px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 112.52%;
+/* identical to box height, or 24px */
+
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+}
+.creative-text-5{
+    position: absolute;
+width: 160px;
+height: 24px;
+left: 85px;
+top: 1742px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 112.52%;
+/* identical to box height, or 24px */
+
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+}
+.creative-text-6{
+    position: absolute;
+width: 231px;
+height: 24px;
+left: 85px;
+top: 1790px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 112.52%;
+/* identical to box height, or 24px */
+
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+}
+.creative-text-7{
+    position: absolute;
+    width: 316px;
+    height: 24px;
+    left: 85px;
+    top: 1838px;
+    
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 112.52%;
+    /* identical to box height, or 24px */
+    
+    letter-spacing: -0.04em;
+    
+    color: #FFFFFF;   
+}
+.service-image-3{
+    position: absolute;
+width: 656px;
+height: 646px;
+left: 55px;
+top: 1997px;
+}
+.implementation{
+    position: absolute;
+width: 483px;
+height: 84px;
+left: 877px;
+top: 2040px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 72px;
+line-height: 116.02%;
+/* identical to box height, or 84px */
+
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+}
+.implementation-text-1{
+    position: absolute;
+width: 238px;
+height: 24px;
+left: 882px;
+top: 2224px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 112.52%;
+/* identical to box height, or 24px */
+
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+}
+.implementation-text-2{
+    position: absolute;
+width: 235px;
+height: 24px;
+left: 882px;
+top: 2272px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 112.52%;
+/* identical to box height, or 24px */
+
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+
+}
+.implementation-text-3{
+    position: absolute;
+    width: 50px;
+    height: 24px;
+    left: 882px;
+    top: 2320px;
+    
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 112.52%;
+    /* identical to box height, or 24px */
+    
+    letter-spacing: -0.04em;
+    
+    color: #FFFFFF;
+}
+.contact-page{
+    position: absolute;
+width: 1440px;
+height: 1100px;
+left: 0px;
+top: 3047px;
+
+background: #070707;
+}
+.check-mail{
+    position: absolute;
+width: 502px;
+height: 68px;
+left: 469px;
+top: 200px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 56px;
+line-height: 68px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.your-name{
+    position: absolute;
+width: 100px;
+height: 24px;
+left: 166px;
+top: 468px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #FDFDFD;
+}
+.email{
+    position: absolute;
+width: 50px;
+height: 24px;
+left: 166px;
+top: 551px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #FDFDFD;
+}
+.project{
+    position: absolute;
+width: 320.39px;
+height: 24px;
+left: 166.18px;
+top: 667px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #FDFDFD;
+}
+.budget{
+    position: absolute;
+width: 133px;
+height: 24px;
+left: 780px;
+top: 468px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #FDFDFD;
+}
+.category{
+position: absolute;
+width: 163px;
+height: 24px;
+left: 781px;
+top: 551px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #FDFDFD;
+
+}
+.send-1{
+    position: absolute;
+width: 258px;
+height: 70px;
+left: 592px;
+top: 830px;
+
+background: #E9E9E9;
+}
+.send-text{
+    position: absolute;
+width: 117px;
+height: 24px;
+left: 659px;
+top: 853px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #070707;
+}
