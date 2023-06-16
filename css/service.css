@@ -515,3 +515,324 @@ line-height: 24px;
 
 color: #070707;
 }
+
+
+.line-1{
+    position: absolute;
+width: 500px;
+height: 0px;
+left: 160px;
+top: 511px;
+
+}
+.line-2{
+    position: absolute;
+    width: 500px;
+    height: 0px;
+    left: 780px;
+    top: 511px;
+    
+}
+.line-3{
+    position: absolute;
+width: 500px;
+height: 0px;
+left: 160px;
+top: 594px;
+}
+.line-4{
+    position: absolute;
+width: 500px;
+height: 0px;
+left: 780px;
+top: 594px;
+}
+.chamosashleli-1{
+    position: absolute;
+width: 10px;
+height: 5px;
+left: 1264px;
+top: 490px;
+
+}
+.chamosashleli-2{
+    position: absolute;
+width: 10px;
+height: 5px;
+left: 1265px;
+top: 573px;
+
+}
+.long-line{
+    position: absolute;
+width: 1120px;
+height: 0px;
+left: 160px;
+top: 710px;
+
+}
+.chamosashleli-bolo{
+    position: absolute;
+width: 6.82px;
+height: 0px;
+left: 1273px;
+top: 688px;
+}
+.contact-down-page{
+    position: absolute;
+width: 1440px;
+height: 890px;
+left: 0px;
+top: 4147px;
+
+background: #F8F8F8;
+}
+.mail{
+    position: absolute;
+width: 435px;
+height: 63px;
+left: 80px;
+top: 160px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 52px;
+line-height: 63px;
+/* identical to box height */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.menu-click-1{
+    position: absolute;
+width: 42px;
+height: 6px;
+left: 1318px;
+top: 186px;
+}
+.portfolio{
+    position: absolute;
+width: 75px;
+height: 25px;
+left: 80px;
+top: 423px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.services{
+    position: absolute;
+width: 78px;
+height: 25px;
+left: 80px;
+top: 473px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.about{
+    position: absolute;
+width: 54px;
+height: 25px;
+left: 80px;
+top: 523px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.contact{
+    position: absolute;
+width: 73px;
+height: 25px;
+left: 80px;
+top: 573px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.sintax-logo-down{
+    position: absolute;
+width: 78px;
+height: 34px;
+left: 80px;
+top: 696px;
+}
+.tbilisi{
+    position: absolute;
+width: 138px;
+height: 25px;
+left: 398px;
+top: 423px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.tbilisi-text{
+    position: absolute;
+width: 195px;
+height: 54px;
+left: 398px;
+top: 482px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 84.02%;
+/* or 18px */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.london{
+    position: absolute;
+width: 70px;
+height: 25px;
+left: 839px;
+top: 423px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.london-text{
+    position: absolute;
+width: 211px;
+height: 54px;
+left: 839px;
+top: 482px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 84.52%;
+/* or 18px */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.dribble{
+    position: absolute;
+width: 78px;
+height: 25px;
+left: 398px;
+top: 702px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.behance{
+    position: absolute;
+width: 81px;
+height: 25px;
+left: 510px;
+top: 702px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.instagram{
+    position: absolute;
+width: 91px;
+height: 25px;
+left: 624px;
+top: 702px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.linkedin{
+    position: absolute;
+width: 76px;
+height: 25px;
+left: 748px;
+top: 702px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.terms{
+    position: absolute;
+width: 176px;
+height: 25px;
+left: 1197px;
+top: 702px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+:root{
+    font-family:'Inter', ;
+    @supports (font-variation-settings: normal)
+    :root { font-family: 'Inter var', sans-serif; }
+}
+

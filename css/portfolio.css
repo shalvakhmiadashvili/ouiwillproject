@@ -897,4 +897,10 @@ letter-spacing: -0.04em;
 
 color: #000000;
 }
+:root{
+    font-family:'Inter', ;
+    @supports (font-variation-settings: normal)
+    :root { font-family: 'Inter var', sans-serif; }
+}
+
 
