@@ -1,0 +1,481 @@
+.contact-page{
+    position: absolute;
+width: 1440px;
+height: 2513px;
+left: 0px;
+top: 0px;
+
+background: #070707;
+}
+.sintax-logo{
+    position: absolute;
+width: 80px;
+height: 35px;
+left: 80px;
+top: 64px;
+}
+.menu{
+    position: absolute;
+width: 42px;
+height: 6px;
+left: 1318px;
+top: 80px;
+
+}
+.tbilisi{
+    position: absolute;
+width: 151px;
+height: 25px;
+left: 256px;
+top: 459px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+
+color: #E9E9E9;
+}
+.tbilisi-text{
+    position: absolute;
+width: 211px;
+height: 54px;
+left: 256px;
+top: 518px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 84.02%;
+/* or 18px */
+
+
+color: #E9E9E9;
+}
+.arrow{
+    box-sizing: border-box;
+
+position: absolute;
+width: 17px;
+height: 0px;
+left: 256px;
+top: 626.02px;
+
+border: 1px solid #FDFDFD;
+transform: rotate(-45deg);
+}
+.tbilisi-image{
+    position: absolute;
+width: 720px;
+height: 580px;
+left: 721px;
+top: 253px;
+}
+.london-image{
+    position: absolute;
+width: 720px;
+height: 580px;
+left: 1px;
+top: 833px;
+}
+.london{
+    position: absolute;
+width: 165px;
+height: 25px;
+left: 976px;
+top: 1039px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+
+color: #E9E9E9;
+}
+.london-text{
+    position: absolute;
+    width: 211px;
+    height: 54px;
+    left: 976px;
+    top: 1098px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 21px;
+    line-height: 84.02%;
+    /* or 18px */
+    
+    
+    color: #E9E9E9;   
+}
+.check-mail{
+    position: absolute;
+width: 502px;
+height: 68px;
+left: 469px;
+top: 1614px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 56px;
+line-height: 68px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.your-name{
+    position: absolute;
+width: 100px;
+height: 24px;
+left: 166px;
+top: 1882px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #FDFDFD;
+}
+.your-name-line{
+    position: absolute;
+width: 500px;
+height: 0px;
+left: 160px;
+top: 1925px;
+
+transform: rotate(-180deg);
+}
+.budget{
+    position: absolute;
+    width: 133px;
+    height: 24px;
+    left: 780px;
+    top: 1882px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #FDFDFD;
+}
+.budget-line{
+    position: absolute;
+width: 500px;
+height: 0px;
+left: 780px;
+top: 1925px;
+transform: rotate(-180deg);
+}
+.email{
+    position: absolute;
+width: 50px;
+height: 24px;
+left: 166px;
+top: 1965px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #FDFDFD;
+}
+.email-line{
+    position: absolute;
+width: 500px;
+height: 0px;
+left: 160px;
+top: 2008px;
+transform: rotate(180deg);
+}
+.service{
+    position: absolute;
+width: 163px;
+height: 24px;
+left: 781px;
+top: 1965px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #FDFDFD;
+}
+.service-line{
+    position: absolute;
+width: 500px;
+height: 0px;
+left: 780px;
+top: 2008px;
+transform: rotate(-180deg);
+}
+.service-chamoshashleli{
+    position: absolute;
+width: 10px;
+height: 5px;
+left: 1265px;
+top: 1976px;
+
+}
+.budget-chamosashleli{
+    position: absolute;
+width: 10px;
+height: 5px;
+left: 1264px;
+top: 1893px;
+}
+.project{
+    position: absolute;
+width: 320.39px;
+height: 24px;
+left: 166.18px;
+top: 2081px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #FDFDFD;
+}
+.project-line{
+    position: absolute;
+width: 1120px;
+height: 0px;
+left: 160px;
+top: 2124px;
+transform: rotate(180deg);
+}
+.project-chamosashleli{
+    position: absolute;
+width: 6.82px;
+height: 0px;
+left: 1259px;
+top: 2090px;
+transform: matrix(0.68, -0.73, 0.8, 0.6, 0, 0);
+}
+.send-box{
+    position: absolute;
+width: 258px;
+height: 70px;
+left: 592px;
+top: 2244px;
+
+background: #E9E9E9;
+}
+.send-text{
+    position: absolute;
+width: 117px;
+height: 24px;
+left: 659px;
+top: 2267px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #070707;
+}
+.chakmail-box{
+    position: absolute;
+width: 1440px;
+height: 890px;
+left: 0px;
+top: 2514px;
+
+background: #F8F8F8;
+}
+.chakmail-text{
+    position: absolute;
+width: 435px;
+height: 63px;
+left: 80px;
+top: 160px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 52px;
+line-height: 63px;
+/* identical to box height */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.menu{
+    position: absolute;
+width: 42px;
+height: 6px;
+left: 1318px;
+top: 186px;
+
+}
+.portfolio{
+    position: absolute;
+width: 75px;
+height: 25px;
+left: 80px;
+top: 423px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+
+}
+.Services{
+    position: absolute;
+width: 78px;
+height: 25px;
+left: 80px;
+top: 473px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.About {
+    position: absolute;
+width: 54px;
+height: 25px;
+left: 80px;
+top: 523px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.contact{
+    position: absolute;
+width: 73px;
+height: 25px;
+left: 80px;
+top: 573px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.sintax-done-logo{
+    position: absolute;
+width: 78px;
+height: 34px;
+left: 80px;
+top: 696px;
+}
+.Dribbble{
+    position: absolute;
+width: 78px;
+height: 25px;
+left: 398px;
+top: 702px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.Behance{
+    position: absolute;
+width: 81px;
+height: 25px;
+left: 510px;
+top: 702px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.Instagram{
+    position: absolute;
+width: 91px;
+height: 25px;
+left: 624px;
+top: 702px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.Linkedin{
+    position: absolute;
+width: 76px;
+height: 25px;
+left: 748px;
+top: 702px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.Terms{
+    position: absolute;
+width: 176px;
+height: 25px;
+left: 1197px;
+top: 702px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
