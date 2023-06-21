@@ -594,7 +594,7 @@ color: #FDFDFD;
     position: absolute;
 width: 500px;
 height: 0px;
-left: 780px;
+left: 781px;
 top: 511px;
 
 
@@ -606,4 +606,335 @@ width: 10px;
 height: 5px;
 left: 1264px;
 top: 478px;
+}
+.chamosashleli-2{
+    position: absolute;
+width: 10px;
+height: 5px;
+left: 1265px;
+top: 560px;
+}
+.service-category{
+    position: absolute;
+width: 163px;
+height: 24px;
+left: 781px;
+top: 551px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+color: #FDFDFD;
+}
+.service-line{
+    position: absolute;
+width: 500px;
+height: 0px;
+left: 781px;
+top: 594px;
+transform: rotate(-180deg);
+}
+.project{
+    position: absolute;
+width: 320.39px;
+height: 24px;
+left: 166.18px;
+top: 667px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #FDFDFD;
+}
+.project-line{
+    position: absolute;
+width: 1120px;
+height: 0px;
+left: 160px;
+top: 710px;
+transform: rotate(180deg);
+}
+.chamosashleli-long{
+    position: absolute;
+width: 7px;
+height: 6px;
+left: 1273px;
+top: 670px;
+}
+.send-box{
+    position: absolute;
+width: 258px;
+height: 70px;
+left: 592px;
+top: 830px;
+
+background: #E9E9E9;
+}
+.send-text{
+    position: absolute;
+width: 117px;
+height: 24px;
+left: 659px;
+top: 853px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #070707;
+
+}
+.checkmail-2{
+    position: absolute;
+width: 435px;
+height: 63px;
+left: 80px;
+top: 5665px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 52px;
+line-height: 63px;
+/* identical to box height */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.menu-2{
+    position: absolute;
+width: 42px;
+height: 6px;
+left: 1318px;
+top: 5691px;
+}
+.portfolio{
+    position: absolute;
+width: 75px;
+height: 25px;
+left: 80px;
+top: 5928px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.Services{
+    position: absolute;
+width: 78px;
+height: 25px;
+left: 80px;
+top: 5978px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+
+}
+.About{
+    position: absolute;
+width: 54px;
+height: 25px;
+left: 80px;
+top: 6028px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.Contact{
+    position: absolute;
+    width: 73px;
+    height: 25px;
+    left: 80px;
+    top: 6078px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: -0.04em;
+    
+    color: #000000;
+}
+.sintax-logo-2{
+    position: absolute;
+width: 78px;
+height: 34px;
+left: 80px;
+top: 6201px;
+
+}
+.tbilisi{
+    position: absolute;
+width: 138px;
+height: 25px;
+left: 398px;
+top: 5928px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+
+}
+.tbilisi-text{
+    position: absolute;
+width: 195px;
+height: 54px;
+left: 398px;
+top: 5987px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 84.02%;
+/* or 18px */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.London{
+    position: absolute;
+width: 70px;
+height: 25px;
+left: 839px;
+top: 5928px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.london-text{
+    position: absolute;
+width: 211px;
+height: 54px;
+left: 839px;
+top: 5987px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 21px;
+line-height: 84.52%;
+/* or 18px */
+
+letter-spacing: -0.04em;
+
+color: #000000;
+
+}.Dribbble{
+    position: absolute;
+width: 78px;
+height: 25px;
+left: 398px;
+top: 6207px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.Behance{
+    position: absolute;
+width: 81px;
+height: 25px;
+left: 510px;
+top: 6207px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.Instagram{
+    position: absolute;
+width: 91px;
+height: 25px;
+left: 624px;
+top: 6207px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.Linkedin{
+    position: absolute;
+width: 76px;
+height: 25px;
+left: 748px;
+top: 6207px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
+}
+.Terms{
+    position: absolute;
+width: 176px;
+height: 25px;
+left: 1197px;
+top: 6207px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: -0.04em;
+
+color: #000000;
 }
