@@ -659,7 +659,7 @@ letter-spacing: -0.04em;
 
 color: #000000;
  }
- .portfoliolanding{
+ #portfoliolanding{
   position: absolute;
 width: 75px;
 height: 25.36px;
@@ -677,7 +677,7 @@ letter-spacing: -0.04em;
 
 color: #000000;
  }
- .serviceslanding{
+ #serviceslanding{
   position: absolute;
 width: 78px;
 height: 25.36px;
@@ -695,7 +695,7 @@ letter-spacing: -0.04em;
 
 color: #000000;
  }
- .aboutlanding{
+ #aboutlanding{
   position: absolute;
 width: 54px;
 height: 25.36px;
@@ -713,7 +713,7 @@ letter-spacing: -0.04em;
 
 color: #000000;
  }
- .contactlanding{
+ #contactlanding{
   position: absolute;
 width: 73px;
 height: 25.36px;
