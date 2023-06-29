@@ -716,7 +716,7 @@ height: 6px;
 left: 1318px;
 top: 5691px;
 }
-.portfolio{
+#portfolio{
     position: absolute;
 width: 75px;
 height: 25px;
@@ -732,7 +732,7 @@ letter-spacing: -0.04em;
 
 color: #000000;
 }
-.Services{
+#Services{
     position: absolute;
 width: 78px;
 height: 25px;
@@ -749,7 +749,7 @@ letter-spacing: -0.04em;
 color: #000000;
 
 }
-.About{
+#About{
     position: absolute;
 width: 54px;
 height: 25px;
@@ -765,7 +765,7 @@ letter-spacing: -0.04em;
 
 color: #000000;
 }
-.Contact{
+#Contact{
     position: absolute;
     width: 73px;
     height: 25px;
